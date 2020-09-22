@@ -5,13 +5,13 @@
  ○Termux:
        
          ●pkg install git -y
-         ●git clone https://github.com/Lafeer007/WordList-Generator.git
+         ●git clone https://github.com/L4F33R/WordList-Generator.git
          ●pkg install python2 -y
          ●cd WordList-Generator
          ●python2 wlg.py
          □Or One Line Command copy and paste:
 
-       pkg install git -y && git clone https://github.com/Lafeer007/WordList-Generator.git
+       pkg install git -y && git clone https://github.com/L4F33R/WordList-Generator.git
     && pkg install python2 -y && cd WordList-Generator && python2 wlg.py
 
 
